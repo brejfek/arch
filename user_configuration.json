@@ -1,6 +1,7 @@
 {
   "archinstall-language": "English",
   "bootloader": "Systemd-boot",
+  "unified_kernel_images": true,
   "hostname": "archlinux",
   "kernels": ["linux-lts"],
   "locale_config": {
